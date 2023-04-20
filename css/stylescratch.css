@@ -1,0 +1,37 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(61, 61, 61);
+    background-color: rgb(255, 248, 239);
+  }
+  
+ul, ol {
+    list-style-position: inside;
+    text-align: center;
+  }
+
+.bold {
+  font-weight: bold;
+}
+
+.italic { 
+  font-style: italic;
+}
+
+.bigger {
+  font-size: large;
+}
+
+a {
+  color: rgb(103, 99, 160);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: rgb(103, 99, 160);
+}
+  
